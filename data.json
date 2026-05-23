@@ -1,6 +1,31 @@
 {
   "terrenos": [
     {
+      "id": "t1779554247365pejn3eapv",
+      "titulo": "Terreno en el Centro de Limpio",
+      "ubicacion": "Limpio",
+      "precio": "219900000",
+      "moneda": "Gs.",
+      "tamaño": "450",
+      "descripcion": "Terreno en el Centro de Limpio - ¡Frente a Plaza y pasos de la Ruta!Descripción:¿Buscás el lugar ideal para tu casa o negocio? ¡Este es el terreno que estabas esperando! 🏡✨✅ Ubicación Premium: En pleno centro de Limpio, zona alta (cero humedad/raudales).✅ Medidas: 12 x 38 metros (456 m²).✅ Frente a plaza: Entorno familiar y despejado.✅ Conectividad: A solo 100 metros del Hospital y a pasos de la ruta principal con acceso a todas las líneas de transporte.¡Todo cerca! Bancos, comercios y servicios a mano.📍 Ubicación estratégica con alta plusvalía.¡Consultá hoy mismo para más info!",
+      "email": "info@terrenospy.com",
+      "telefono": "+595985282935",
+      "estado": "disponible",
+      "destacado": false,
+      "mapaUrl": "",
+      "media": [
+        {
+          "type": "image",
+          "url": "https://res.cloudinary.com/daqgezuva/image/upload/v1779554246/terrenos_py/nc75rbngmgdh7mdbpl7z.jpg"
+        }
+      ],
+      "imagenes": [
+        "https://res.cloudinary.com/daqgezuva/image/upload/v1779554246/terrenos_py/nc75rbngmgdh7mdbpl7z.jpg"
+      ],
+      "fechaCreacion": "2026-05-23T16:37:27.365Z",
+      "fechaActualizacion": "2026-05-23T16:37:27.365Z"
+    },
+    {
       "id": "t1779552268130otheg32k6",
       "titulo": "Departamento - Alquiler - San Vicente, Asunción, Paraguay",
       "ubicacion": "Asunción-Paraguay",
@@ -542,11 +567,11 @@
     }
   ],
   "metadata": {
-    "totalTerrenos": 10,
-    "fechaActualizacion": "2026-05-23T16:04:35.386Z",
+    "totalTerrenos": 11,
+    "fechaActualizacion": "2026-05-23T16:37:35.055Z",
     "version": "3.0",
     "generadoPor": "Sistema Terrenos PY",
-    "ultimaModificacion": "2026-05-23T16:04:35.386Z",
+    "ultimaModificacion": "2026-05-23T16:37:35.055Z",
     "soportaMoneda": true
   }
 }
